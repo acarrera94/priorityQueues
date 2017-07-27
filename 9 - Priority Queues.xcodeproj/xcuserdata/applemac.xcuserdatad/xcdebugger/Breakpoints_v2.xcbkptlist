@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "9 - Priority Queues/PriorityQueue.h"
+            timestampString = "501039374.376451"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "Enqueue(type x)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "9 - Priority Queues/PriorityQueue.h"
+            timestampString = "501039374.376451"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "Enqueue(type x)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PriorityQueue&lt;double&gt;::Enqueue(double)"
+                  moduleName = "9 - Priority Queues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/applemac/Documents/School/2016%20-%20Fall%20Semester%20/CS%20235/9%20-%20Priority%20Queues/9%20-%20Priority%20Queues/PriorityQueue.h"
+                  timestampString = "501039695.208613"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "261">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PriorityQueue&lt;char&gt;::Enqueue(char)"
+                  moduleName = "9 - Priority Queues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/applemac/Documents/School/2016%20-%20Fall%20Semester%20/CS%20235/9%20-%20Priority%20Queues/9%20-%20Priority%20Queues/PriorityQueue.h"
+                  timestampString = "501039695.210464"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PriorityQueue&lt;int&gt;::Enqueue(int)"
+                  moduleName = "9 - Priority Queues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/applemac/Documents/School/2016%20-%20Fall%20Semester%20/CS%20235/9%20-%20Priority%20Queues/9%20-%20Priority%20Queues/PriorityQueue.h"
+                  timestampString = "501039695.212561"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "251">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PriorityQueue&lt;short&gt;::Enqueue(short)"
+                  moduleName = "9 - Priority Queues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/applemac/Documents/School/2016%20-%20Fall%20Semester%20/CS%20235/9%20-%20Priority%20Queues/9%20-%20Priority%20Queues/PriorityQueue.h"
+                  timestampString = "501039695.214319"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "261">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PriorityQueue&lt;float&gt;::Enqueue(float)"
+                  moduleName = "9 - Priority Queues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/applemac/Documents/School/2016%20-%20Fall%20Semester%20/CS%20235/9%20-%20Priority%20Queues/9%20-%20Priority%20Queues/PriorityQueue.h"
+                  timestampString = "501039695.216135"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "9 - Priority Queues/PriorityQueue.h"
+            timestampString = "501039476.598702"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "Enqueue(type x)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PriorityQueue&lt;double&gt;::Enqueue(double)"
+                  moduleName = "9 - Priority Queues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/applemac/Documents/School/2016%20-%20Fall%20Semester%20/CS%20235/9%20-%20Priority%20Queues/9%20-%20Priority%20Queues/PriorityQueue.h"
+                  timestampString = "501040748.59151"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "225">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PriorityQueue&lt;char&gt;::Enqueue(char)"
+                  moduleName = "9 - Priority Queues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/applemac/Documents/School/2016%20-%20Fall%20Semester%20/CS%20235/9%20-%20Priority%20Queues/9%20-%20Priority%20Queues/PriorityQueue.h"
+                  timestampString = "501040748.593387"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PriorityQueue&lt;int&gt;::Enqueue(int)"
+                  moduleName = "9 - Priority Queues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/applemac/Documents/School/2016%20-%20Fall%20Semester%20/CS%20235/9%20-%20Priority%20Queues/9%20-%20Priority%20Queues/PriorityQueue.h"
+                  timestampString = "501040748.595417"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "219">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PriorityQueue&lt;short&gt;::Enqueue(short)"
+                  moduleName = "9 - Priority Queues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/applemac/Documents/School/2016%20-%20Fall%20Semester%20/CS%20235/9%20-%20Priority%20Queues/9%20-%20Priority%20Queues/PriorityQueue.h"
+                  timestampString = "501040748.597214"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "225">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PriorityQueue&lt;float&gt;::Enqueue(float)"
+                  moduleName = "9 - Priority Queues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/applemac/Documents/School/2016%20-%20Fall%20Semester%20/CS%20235/9%20-%20Priority%20Queues/9%20-%20Priority%20Queues/PriorityQueue.h"
+                  timestampString = "501040748.599373"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "225">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "9 - Priority Queues/PriorityQueue.h"
+            timestampString = "501039477.396633"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "Enqueue(type x)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "9 - Priority Queues/main.cpp"
+            timestampString = "501039682.822511"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "TestSevenItemsInOrder()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "9 - Priority Queues/main.cpp"
+            timestampString = "501039686.602365"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "TestSevenItemsInOrder()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "9 - Priority Queues/main.cpp"
+            timestampString = "501039687.008422"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "TestSevenItemsInOrder()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
